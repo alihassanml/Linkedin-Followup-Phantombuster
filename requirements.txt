@@ -1,0 +1,11 @@
+openpyxl
+langchain 
+openai 
+pandas
+groq 
+langchain-community 
+pandas 
+python-dotenv
+gspread 
+pandas 
+oauth2client

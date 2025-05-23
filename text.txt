@@ -1,0 +1,10 @@
+{
+  "id": "8372180606837374",
+  "argument": {
+    "sessionCookie": "AQEDAUwiXTYBwzZ7AAABlm3C8nAAAAGXCHRba00AvnzQ2N1p9_IRnZh5a3VLPlf9Q2aL0dm0Kg76nQ7U9J1uVo04NoZfA0OEq2WxNQFpRtIWn3x2RibURyCvkYImshU3HyzOMrOxhAUdmIZZsC4_s94N",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "inboxFilter": "all",
+    "before": "05-19-2025",
+    "numberOfThreadsToScrape": 30
+  }
+}
